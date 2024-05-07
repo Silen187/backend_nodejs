@@ -4,7 +4,7 @@ var app = express();
 const connectDB = require('./Config/Connect');
 const route = require('./route/index');
 
-app.use(cors({ origin: 'http://localhost:3000' }));
+app.use(cors({ origin: 'https://www.thitruongtuyendung.click' }));
 
 connectDB;
 
