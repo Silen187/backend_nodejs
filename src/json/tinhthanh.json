@@ -1,0 +1,382 @@
+{
+    "tinhThanh": [
+        {
+            "name": "Hà Nội",
+            "population": 8142000,
+            "area": 3324.92,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Hồ Chí Minh",
+            "population": 8400000,
+            "area": 2095.47,
+            "region": "Nam Bộ"
+        },
+        {
+            "name": "Hải Phòng",
+            "population": 1897000,
+            "area": 1523.9,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Cần Thơ",
+            "population": 1235858,
+            "area": 1409.0,
+            "region": "Nam Bộ"
+        },
+        {
+            "name": "Đà Nẵng",
+            "population": 1010554,
+            "area": 1285.4,
+            "region": "Trung Bộ"
+        },
+        {
+            "name": "Hải Dương",
+            "population": 1785000,
+            "area": 1655.8,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Hải Phòng",
+            "population": 1897000,
+            "area": 1523.9,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Thái Bình",
+            "population": 1734000,
+            "area": 1586.3,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Nam Định",
+            "population": 1715000,
+            "area": 1651.0,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Ninh Bình",
+            "population": 1081000,
+            "area": 1376.7,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Thái Nguyên",
+            "population": 1313600,
+            "area": 3536.8,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Vĩnh Phúc",
+            "population": 1218000,
+            "area": 1237.5,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Bắc Ninh",
+            "population": 1068000,
+            "area": 822.7,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Quảng Ninh",
+            "population": 1300600,
+            "area": 6102.3,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Bắc Giang",
+            "population": 1393000,
+            "area": 3827.0,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Phú Thọ",
+            "population": 1264000,
+            "area": 3537.6,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Yên Bái",
+            "population": 785200,
+            "area": 6886.4,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Tuyên Quang",
+            "population": 775700,
+            "area": 5867.3,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Lào Cai",
+            "population": 719500,
+            "area": 6383.9,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Hà Giang",
+            "population": 865700,
+            "area": 7914.9,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Lạng Sơn",
+            "population": 778500,
+            "area": 8329.5,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Bắc Kạn",
+            "population": 306800,
+            "area": 4859.4,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Cao Bằng",
+            "population": 527800,
+            "area": 6786.9,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Điện Biên",
+            "population": 531300,
+            "area": 9562.9,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Lai Châu",
+            "population": 377300,
+            "area": 9068.8,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Sơn La",
+            "population": 1338000,
+            "area": 14174.4,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Yên Bái",
+            "population": 787000,
+            "area": 6886.4,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Hòa Bình",
+            "population": 839000,
+            "area": 4608.7,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Thái Nguyên",
+            "population": 1313600,
+            "area": 3536.8,
+            "region": "Bắc Bộ"
+        },
+        {
+            "name": "Quảng Bình",
+            "population": 853800,
+            "area": 8065.7,
+            "region": "Bắc Trung Bộ"
+        },
+        {
+            "name": "Quảng Trị",
+            "population": 614800,
+            "area": 4744.7,
+            "region": "Bắc Trung Bộ"
+        },
+        {
+            "name": "Huế",
+            "population": 1113800,
+            "area": 5077.9,
+            "region": "Bắc Trung Bộ"
+        },
+        {
+            "name": "Đà Nẵng",
+            "population": 1010554,
+            "area": 1285.4,
+            "region": "Trung Bộ"
+        },
+        {
+            "name": "Quảng Nam",
+            "population": 1576000,
+            "area": 10438.4,
+            "region": "Trung Bộ"
+        },
+        {
+            "name": "Quảng Ngãi",
+            "population": 1364000,
+            "area": 5157.7,
+            "region": "Trung Bộ"
+        },
+        {
+            "name": "Bình Định",
+            "population": 1512000,
+            "area": 6057.7,
+            "region": "Trung Bộ"
+        },
+        {
+            "name": "Phú Yên",
+            "population": 850700,
+            "area": 5060.6,
+            "region": "Trung Bộ"
+        },
+        {
+            "name": "Khánh Hòa",
+            "population": 1280600,
+            "area": 5217.7,
+            "region": "Trung Bộ"
+        },
+        {
+            "name": "Ninh Thuận",
+            "population": 578400,
+            "area": 3358.3,
+            "region": "Trung Bộ"
+        },
+        {
+            "name": "Bình Thuận",
+            "population": 1242100,
+            "area": 7812.3,
+            "region": "Trung Bộ"
+        },
+        {
+            "name": "Kon Tum",
+            "population": 411500,
+            "area": 9658.9,
+            "region": "Tây Nguyên"
+        },
+        {
+            "name": "Gia Lai",
+            "population": 1325100,
+            "area": 15533.6,
+            "region": "Tây Nguyên"
+        },
+        {
+            "name": "Đắk Lắk",
+            "population": 1815800,
+            "area": 13125.4,
+            "region": "Tây Nguyên"
+        },
+        {
+            "name": "Đắk Nông",
+            "population": 543500,
+            "area": 6515.6,
+            "region": "Tây Nguyên"
+        },
+        {
+            "name": "Lâm Đồng",
+            "population": 1345000,
+            "area": 9773.5,
+            "region": "Tây Nguyên"
+        },
+        {
+            "name": "Bình Phước",
+            "population": 912700,
+            "area": 6875.0,
+            "region": "Đông Nam Bộ"
+        },
+        {
+            "name": "Tây Ninh",
+            "population": 1150500,
+            "area": 4032.3,
+            "region": "Đông Nam Bộ"
+        },
+        {
+            "name": "Bình Dương",
+            "population": 1928000,
+            "area": 2694.4,
+            "region": "Đông Nam Bộ"
+        },
+        {
+            "name": "Đồng Nai",
+            "population": 2915000,
+            "area": 5907.2,
+            "region": "Đông Nam Bộ"
+        },
+        {
+            "name": "Bà Rịa - Vũng Tàu",
+            "population": 1160000,
+            "area": 1989.5,
+            "region": "Đông Nam Bộ"
+        },
+        {
+            "name": "Long An",
+            "population": 1534600,
+            "area": 4495.0,
+            "region": "Đồng Bằng Sông Cửu Long"
+        },
+        {
+            "name": "Tiền Giang",
+            "population": 1773700,
+            "area": 2509.3,
+            "region": "Đồng Bằng Sông Cửu Long"
+        },
+        {
+            "name": "Bến Tre",
+            "population": 1233400,
+            "area": 2360.7,
+            "region": "Đồng Bằng Sông Cửu Long"
+        },
+        {
+            "name": "Trà Vinh",
+            "population": 1012500,
+            "area": 2340.0,
+            "region": "Đồng Bằng Sông Cửu Long"
+        },
+        {
+            "name": "Vĩnh Long",
+            "population": 1058400,
+            "area": 1457.0,
+            "region": "Đồng Bằng Sông Cửu Long"
+        },
+        {
+            "name": "Đồng Tháp",
+            "population": 1783000,
+            "area": 3377.0,
+            "region": "Đồng Bằng Sông Cửu Long"
+        },
+        {
+            "name": "An Giang",
+            "population": 2224600,
+            "area": 3536.8,
+            "region": "Đồng Bằng Sông Cửu Long"
+        },
+        {
+            "name": "Kiên Giang",
+            "population": 1724300,
+            "area": 6348.5,
+            "region": "Đồng Bằng Sông Cửu Long"
+        },
+        {
+            "name": "Cần Thơ",
+            "population": 1235858,
+            "area": 1409.0,
+            "region": "Đồng Bằng Sông Cửu Long"
+        },
+        {
+            "name": "Hậu Giang",
+            "population": 832000,
+            "area": 1600.0,
+            "region": "Đồng Bằng Sông Cửu Long"
+        },
+        {
+            "name": "Sóc Trăng",
+            "population": 1317600,
+            "area": 3310.0,
+            "region": "Đồng Bằng Sông Cửu Long"
+        },
+        {
+            "name": "Bạc Liêu",
+            "population": 956900,
+            "area": 2468.7,
+            "region": "Đồng Bằng Sông Cửu Long"
+        },
+        {
+            "name": "Cà Mau",
+            "population": 1330700,
+            "area": 5294.9,
+            "region": "Đồng Bằng Sông Cửu Long"
+        }
+    ]
+}
