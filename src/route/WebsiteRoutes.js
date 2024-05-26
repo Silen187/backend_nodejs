@@ -3,7 +3,8 @@ const router = express.Router();
 
 const controllerWebsite = require('../Controller/ControllerWebsite');
 
-router.get('/api/data', controllerWebsite.getData);
-router.get('/api/search', controllerWebsite.SearchJobs);
+// Thêm hàm sau khi code trong Controller
+router.get('/api/data', controllerWebsite.getData); // Hàm lấy Data
+router.get('/api/search', controllerWebsite.SearchJobs); // Hàm tìm kiếm job + filter
 
 module.exports = router;

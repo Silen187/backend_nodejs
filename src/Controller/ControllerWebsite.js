@@ -1,9 +1,12 @@
 const connectDB = require('../Config/Connect');
-
+// Lớp controller
 class ControllerWebsite {
+// Hàm getData
     async getData(req, res) {
         try {
+            // Tạo một kết nối cơ sở dữ liệu bằng cách sử dụng một Promise
             const connection = await new Promise((resolve, reject) => {
+                // Gọi phương thức getConnection từ connectDB để lấy một kết nối từ pool kết nối
                 connectDB.getConnection((err, connection) => {
                     if (err) {
                         console.error('Error getting connection from pool:', err);
@@ -14,9 +17,9 @@ class ControllerWebsite {
                 });
             });
 
-            // Perform a query
+            // Query data 
             const rows = await new Promise((resolve, reject) => {
-                connection.query('SELECT * FROM stg_Thongtin_test', (err, rows) => {
+                connection.query('SELECT * FROM Data_Lake', (err, rows) => {
                     if (err) {
                         console.error('Error executing query:', err);
                         reject(err);
@@ -36,6 +39,7 @@ class ControllerWebsite {
             res.status(500).send('Internal Server Error');
         }
     }
+    // Hàm search job + filter tỉnh thành
     async SearchJobs(req, res) {
         try {
             const searchTerm = req.query.valueSearch;
