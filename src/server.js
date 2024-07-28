@@ -10,9 +10,9 @@ connectDB;
 
 route(app);
 // Start the server
-const port = process.env.PORT || 5000; 
-var server = app.listen(port, () => {
-  console.log(`Server đang chạy tại cổng ${port}`);
-});
-
-module.exports = server;
+// const port = process.env.PORT || 5000; 
+// var server = app.listen(port, () => {
+//   console.log(`Server đang chạy tại cổng ${port}`);
+// });
+app.listen()
+// module.exports = server;
