@@ -2,16 +2,17 @@ var express = require('express');
 const cors = require('cors');
 var app = express();
 const connectDB = require('./Config/Connect');
-const route = require('./route/index');
+const route = require('./routes/index');
 
-app.use(cors({ origin: 'https://www.thitruongtuyendung.click' }));
+app.use(cors({ origin: '*' }));
 
 connectDB;
 
 route(app);
 // Start the server
-var server = app.listen(5000, function () {
-    console.log('Server listening on port 5000');
+const port = process.env.PORT || 5000; 
+var server = app.listen(port, () => {
+  console.log(`Server đang chạy tại cổng ${port}`);
 });
 
 module.exports = server;
